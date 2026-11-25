@@ -1,0 +1,6 @@
+{
+  "name": "DYABLO Engine",
+  "description": "DYABLO: A high-fidelity, deep-sea bioluminescent physical particle simulation and real-time audio synthesis engine by KNOCKSSTUDiOS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
